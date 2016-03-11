@@ -1,0 +1,90 @@
+0000.Music
+A:Do you like music?  
+B:Well, it depends.
+A:Do you think the "High School Musical" is warm matched?
+B:Of course yes.
+A:How about the lyrics?
+B:Very touching.
+A:It bring me back to some of my childhood memories.
+B:Yes,it is so. i love songs that take me to some places i have not been or have been for a long time. it is fun and exciting.
+A:Of course.it is really fantastic too, and it makes me eager to dance.
+B:It is full of energy.
+A:This song is really worthy listening to and enjoying.
+B:It certainly is. 
+A:the time of high school is really valuable, we should treasure it.
+B:yeah£¬Remember that time flies and it will never come back 
+A:Next time you listen to the music, remember to share it with me.
+B:I will. We like the same type of music after all.
+0001.Film
+A:Hi, sir! What do you like to do in your spare time? Do you like movies?
+B:Well, I spend a lot of time watching movies.
+A:What a coincidence! I also watch a lot of movies.
+B:Oh really, Frank? What kind of movies do you like?
+A:Actually, I watch whichever movie there is, be it a comedy, a sci-fi or a suspense movie. How about you?
+B:Art films are my favorite, but thrillers are cool, too.
+A:Really impressive. These two genres are definitely different.
+B:Sure. I enjoy both of them very much.
+A:How often do you go to the cinema?
+B:Once in a while, I suppose, I usually rent movies at Movie Salon.
+A:Movie salon? Where's that?
+B:It's a movie rental store in my neighborhood. I've got a membership there.
+A:Is it good?
+B:Yes, you can find almost all new releases there.
+A:Really? Maybe I shall also sign up for its membership.
+B:Why not?
+0002.Pet
+A:We have been over this a hundred times! We are not getting a pet!
+B:Why not? Come on! Just a cute little puppy or a kitty!
+A:Who is going to look after a dog or a cat?
+B:I will! I¡¯ll feed it, bathe it and walk it every day! We can get a Labrador or a German Shepard!
+A:What if we want to take a vacation? Who will we leave it with? Plus, our apartment is too small for that breed of dog.
+B:Ok. How about we get a cat or a ferret?
+A:Do you forget that your mother is allergic to cat¡¯s hair, I don¡¯t think those animals are a good idea with her in the house.
+B:Fine! Let¡¯s get a bird then! We can keep it in its cage and teach it to talk! A parrot would be awesome!
+A:I¡¯ll tell you what, I can get you some hamsters and we¡¯ll take it from there.
+B:Yay! I'm going to the pet shop and buy one. 
+A:You have to take care of it all the time.
+B:Rest assured that I will.
+A:Go ahead.
+B:Okay, Ben!
+0003.Scare
+A:What seems to be the problem, kid?
+B:I've got a sore throat, a runny nose and a headache.
+A:Ah¡­How long have you been like this?
+B:I am not very sure. Maybe for three days.
+A:Do you have any stomachache?
+B:I guess so. It comes and goes.
+A:Open your mouth and say ah¡­ God, you are suffering from the swelling of tonsils.
+B:Is that serious, doctor?
+A:Yes, I am sure that you got the flu. You need a shot.
+B:Oh, doctor. Do I have to? I am afraid of needles!
+A:Yes, that's for sure. But it is not that bad. It's gonna be all right.
+B:Oh, doctor, please¡­
+A:Be brave, young man. Only girls cry when given an injection.
+B:You are right. I won't cry.
+A:good boy, let¡¯s do it. OK, how do you feel? is it not pain?
+B:In fact, there is a little pain, but nothing because I am a boy.
+A:well done.
+B:Thank you so much, my dear friend!
+0004.Crime
+A:hey, What are you reading right now? 
+B:Hi.I am reading the news on phone, there so many report about crime.
+A:Oh, really? What about that?
+B:it is about from a rich family kill a girl, only because the girl refused to be his girlfriend.
+A:It¡¯s unbelievable! The boy is too crazy! The girl has her right to accept the boy or not.
+B:Yes. Because of the boy`s family background, he fears nothing and ignores the laws.
+A:such things happened a lot, many people broke the laws. And a data shows that the number of  crimes is growing in recent years.
+B:you are right. With the deveopment of economy, the crime rate keeps increasing.
+A:I very hate the thief. One day I took my bike to a bookshore, and when I returned, I counldn¡¯t  find it.
+B:Did someboby steal your bike?
+A:yes, the thief stole my bike.
+B:Did you lock it to somethink?
+A:yes I did, but the thief just broke the lock and stole my bike.
+B:oh, it's high time for us to change this situation to keep crime from rising.
+A:so,do u have any idea to change this phenomenon?
+B:above all,, Our government should pay  more attention to making rules about the law because it make a big different.
+A:The policeman should be serious about the crimes as well.
+B:you are right, people should also improve awareness of laws.
+A:M¡­especially students, students not only need to improve their knowledge of law, but also learn to protect themselves.
+B:well,I hope that the advice above can make a different.
+

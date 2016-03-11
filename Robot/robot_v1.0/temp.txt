@@ -1,0 +1,27 @@
+1.hello;hi
+2.how are you;i am fine, thank you
+3.how do you do;i am fine, thank you
+4.when is your birthday;2015/9/19
+5.can you help me;of course, i will be glad to
+6.thank you;no thanks
+7.happy new year;the same to you
+8.happy birthday;thank you
+9.sorry to trouble you;that's all right
+1.what do you like;i like humans
+2.what are you doing;i am working
+3.what gender are you;i am a boy
+4.good night;night
+5.good morning;good morning, sir
+6.good afternoon;afternoon, sir
+7.i gonna go;good bye, sir
+8.see you;bye bye
+9.good bye;see you, sir
+1.what is your hobit;i am good at thinking
+2.i am a little tired;come on, guy
+3.i am so tired;get some rest, sir
+4.i am bored;try some music
+5.it is a boring day;why not take a cup of coffee and do some readings
+6.i learn so much today;good job, sir
+7.good evening;you too
+8.what a nice day;i can't agree more with you
+9.it is going to rain;watch out on the road
